@@ -1,0 +1,16 @@
+{
+  "name": "DND角色卡管理器（离线版）",
+  "short_name": "角色卡",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f0a07",
+  "theme_color": "#78350f",
+  "icons": [
+    {
+      "src": "./assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
